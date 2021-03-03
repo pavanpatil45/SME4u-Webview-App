@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/homeurl"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Home"/>
+
+
+        <item
+            android:id="@+id/link1"
+            android:icon="@drawable/ic_menu_send"
+            android:title="link 1"/>
+
+        <item
+            android:id="@+id/link2"
+            android:icon="@drawable/ic_menu_send"
+            android:title="link 2"/>
+
+
+
+
+    </group>
+
+    <item android:title="Social Media">
+        <menu>
+            <item
+                android:id="@+id/facebook"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Facebook" />
+            <item
+                android:id="@+id/twitter"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Twitter" />
+
+        </menu>
+    </item>
+
+
+
+
+
+    <item android:title="Other">
+        <menu>
+
+            <item
+                android:id="@+id/aboutus"
+                android:icon="@drawable/ic_menu_send"
+                android:title="About us"/>
+
+            <item
+                android:id="@+id/signout"
+                android:icon="@drawable/ic_menu_send"
+                android:title="signout"/>
+
+        </menu>
+    </item>
+
+
+
+</menu>

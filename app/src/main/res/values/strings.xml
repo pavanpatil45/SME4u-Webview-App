@@ -1,0 +1,11 @@
+
+
+<resources>
+<string name="app_name">SME4u</string>
+<string name="navigation_drawer_open">Open navigation drawer</string>
+<string name="navigation_drawer_close">Close navigation drawer</string>
+<string name="affable_text">AFFABLE</string>
+<string name="aboutus_description">You can write here in paragraph/markdown etc. created by Pavan.</string>
+
+<string name="action_settings">Settings</string>
+</resources>
