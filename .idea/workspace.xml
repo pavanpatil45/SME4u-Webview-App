@@ -12,7 +12,6 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="c7db70b57d2b" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -45,7 +44,7 @@
     <property name="ExportApk.SignV2" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_directory_selection" value="/mnt/2ADC0CA1DC0C6A01/ANDROID/SME4u/app/src/main/res/drawable" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../KEYS/p4v4nkeystore.jks" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../My Projects/Disable Apps" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -197,10 +196,10 @@
       <screen x="0" y="31" width="1366" height="737" />
     </state>
     <state x="416" y="150" width="534" height="506" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.31.1366.737@0.31.1366.737" timestamp="1614696342046" />
-    <state x="466" y="160" width="434" height="487" key="FileChooserDialogImpl" timestamp="1614699282955">
+    <state x="466" y="160" width="434" height="487" key="FileChooserDialogImpl" timestamp="1616819063647">
       <screen x="0" y="31" width="1366" height="737" />
     </state>
-    <state x="466" y="160" width="434" height="487" key="FileChooserDialogImpl/0.31.1366.737@0.31.1366.737" timestamp="1614699282955" />
+    <state x="466" y="160" width="434" height="487" key="FileChooserDialogImpl/0.31.1366.737@0.31.1366.737" timestamp="1616819063647" />
     <state width="1320" height="343" key="GridCell.Tab.0.bottom" timestamp="1614696393435">
       <screen x="0" y="31" width="1366" height="737" />
     </state>
